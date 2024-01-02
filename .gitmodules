@@ -1,0 +1,6 @@
+[submodule "components/xpt2046"]
+	path = components/xpt2046
+	url = https://github.com/galexite/xpt2046-esp-idf
+[submodule "components/lvgl_touch_calibration"]
+	path = components/lvgl_touch_calibration
+	url = https://github.com/jakpaul/lvgl_touch_calibration.git
